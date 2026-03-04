@@ -1,0 +1,5 @@
+{
+  "name": "ECD Smart Tracker (BalVikas)",
+  "description": "Child Development Tracker for Anganwadi Workers in Andhra Pradesh",
+  "requestFramePermissions": ["microphone"]
+}
